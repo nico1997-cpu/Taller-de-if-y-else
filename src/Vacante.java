@@ -1,4 +1,4 @@
-import java.net.Socket;
+
 import java.util.Scanner;
 public class Vacante {
     public static void main(String[] args) {
