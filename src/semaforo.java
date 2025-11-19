@@ -1,4 +1,4 @@
-import javax.sound.midi.Soundbank;
+
 import java.util.Scanner;
 public class semaforo {
     public static void main(String[] args) {
